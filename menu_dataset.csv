@@ -1,0 +1,60 @@
+Restaurant Name,Menu Category,Item Name,Price
+Tomato's,Pan Asian,The Old Fashion Spring Rolls,₹255.00
+Tomato's,Pan Asian,Crunchy Schezwan Potato Fingers,₹240.00
+Tomato's,Pan Asian,Chilli Paneer,₹365.00
+Tomato's,Pan Asian,Cottage Cheese With Crackling Spinach,₹445.00
+Tomato's,Pan Asian,Veg Manchurian Dry,₹325.00
+Tomato's,Global,Cocktail Tacos,₹275.00
+Tomato's,Global,Nachos With Salsa & Cheese Herb Sauce,₹275.00
+Tomato's,Global,Nachos Supreme,₹290.00
+Tomato's,Indian,Mulayam Paneer Tikka,₹375.00
+Tomato's,Indian,Assorted Paneer Tikka's,₹375.00
+Grill Craft Co.,Bar Munchies,Cheese Chilli Bites,₹240.00
+Grill Craft Co.,Bar Munchies,Cheese Cherry Pineapple,₹240.00
+Grill Craft Co.,Bar Munchies,French Fries,₹240.00
+Grill Craft Co.,Bar Munchies,Roasted Almonds,₹260.00
+Grill Craft Co.,Bar Munchies,Green Chilli And Butter Roasted Corn,₹260.00
+Grill Craft Co.,Soup,Grilled Tomato Pepper Soup,₹240.00
+Grill Craft Co.,Soup,Baked Cheesy Potato Corn Soup,₹260.00
+Grill Craft Co.,Pizza,Margharita,₹350.00
+Grill Craft Co.,Pizza,Spice Burst,₹380.00
+Grill Craft Co.,Desserts,Tiramisu,₹390.00
+Two Sisters Kitchen and Cafe,Breakfast,Medu Vada,₹99.00
+Two Sisters Kitchen and Cafe,Breakfast,Idli,₹99.00
+Two Sisters Kitchen and Cafe,Breakfast,Masala Dosa,₹120.00
+Two Sisters Kitchen and Cafe,Breakfast,Misal Pav,₹120.00
+Two Sisters Kitchen and Cafe,Local,Pav Bhaji,₹199.00
+Two Sisters Kitchen and Cafe,Local,Paneer Pakoda,₹219.00
+Two Sisters Kitchen and Cafe,Rice,Chicken Biryani,₹449.00
+Two Sisters Kitchen and Cafe,Veg Curry,Shahi Paneer,₹399.00
+Two Sisters Kitchen and Cafe,Non Veg Curry,Butter Chicken,₹399.00
+Two Sisters Kitchen and Cafe,Egg Preparation,Shakshuka Egg,₹225.00
+Lilly Cafe Shop,Maggie,Plain Maggie,₹50.00
+Lilly Cafe Shop,Maggie,Masala Maggie,₹60.00
+Lilly Cafe Shop,Pizza,Margherita Pizza,₹150.00
+Lilly Cafe Shop,Pizza,Paneer Tandoor Pizza,₹210.00
+Lilly Cafe Shop,Burgers,Paneer Cheese Burger,₹80.00
+Lilly Cafe Shop,Sandwiches,Tandoori Paneer Sandwich,₹110.00
+Lilly Cafe Shop,Fries,Cheesy Tandoor Fries,₹110.00
+Lilly Cafe Shop,Fusion Nachos & Tacos,Loaded Nachos,₹130.00
+Lilly Cafe Shop,Pasta,Classic Mac & Cheese,₹150.00
+Lilly Cafe Shop,Mocktails,Mojito,₹90.00
+House Of Flavours,Guest's Favourite,Jalapeno Cheese Poppers,₹349.00
+House Of Flavours,Guest's Favourite,Paneer Makhmali Roll,₹399.00
+House Of Flavours,Best Of All Food Festivals,Kurkure Paneer,₹349.00
+House Of Flavours,Best Of All Food Festivals,Patiyala Seekh Kebab,₹499.00
+House Of Flavours,Continental Appetizers,Cheese Chilli Toast,₹299.00
+House Of Flavours,Oriental Nibblers,Paneer Chilli,₹399.00
+House Of Flavours,Continental Main Course,Exotic Veg In Garlic Pepper Sauce,₹449.00
+House Of Flavours,Oriental Main Course,Malaysian Curry (Veg),₹349.00
+House Of Flavours,Oriental Rice & Noodles,Fried Rice (Veg),₹349.00
+House Of Flavours,Pasta,Spaghetti Aglio Olio,₹349.00
+,,,
+,,,
+,,,
+Restaurant,Highest Price Item,Lowest Price Item,Estimated Bestseller
+Tomato's,Tandoori Khazana - 955,Herb Garlic Bread - 150,Chilli Paneer
+Grill Craft Co.,Tiramisu - 390,Cheese Chilli Bites - 240,Spice Burst Pizza
+Two Sisters Kitchen and Cafe,Chicken Biryani - 449,Medu Vada - 99,Butter Chicken
+Lilly Cafe Shop,Paneer Tandoor Pizza - 210,Plain Maggie - 50,Margherita Pizza
+House Of Flavours,Patiyala Seekh Kebab - 499,Cheese Chilli Toast - 299,Kurkure Paneer
